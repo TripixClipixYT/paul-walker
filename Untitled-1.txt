@@ -1,0 +1,72 @@
+<!--<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Infinity Coding</title><meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+<script type="text/javascript" src="js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.jcarousel.js"></script>
+<script type="text/javascript" src="js/jquery-func.js"></script>
+<link rel="shortcut icon" href="infinite-program-dev-code-coding-infinity-512.png">
+</head>
+<body>
+<!--START PAGE SOURCE -->
+<div id="wrapper">
+  <div class="wrapper-bg">
+<div class="wrapper-bg">
+    <div id="header">
+      <div id="header">
+        <h1 id="logo"><a>Infinity Coding</a></h1>
+        <div id="navigation">
+          <ul>
+            <li><a href="?/index.html" class="active">Home</a></li>
+<li><a href="https://discord.gg/Aga6xJj" target="_blank" class="active">Discord </a>
+</li>
+<li><a href="https://icoding.statuskit.com" target="_blank" class="active">Status</a>
+<li><a href="dserverstat.html" class="active">Server</a></li>
+</li></h5>
+          </ul>
+        </div>
+        <div class="cl">&nbsp;</div>
+      </div>
+      <div id="slider">
+        <h1></h1>
+        <br>
+         <!-- <li><a href="pages/locations.html">Locations</a></li>
+          <li><a href="contact.html">Contact</a></li> -->
+          <h4>Games 2019:</h4>
+          <img src="dsadasd.png" height="100" width="150"><br>
+          
+          <a href="https://infinity-coding.free.bg/Ball Jump V2/start.html" target="_blank"><b>Ball Jump V2</b></a>
+          <h5>
+<br><br><br>
+<img src="Untitled.jpg" height="100" wight="150" class="UntitledA"><br>
+<a href="https://infinity-coding.free.bg/SpoggMultiplayerV2/start.html" class="link2">Spogg Another V2<br><b><i>Multiplayer</b></i>
+<style>
+. UntitledA
+left: 130px;
+top: 50px;
+</style>
+<br>
+          <img src="hqdefault.jpg" height="100" width="150"><br>
+          <a href="https://infinity-coding.free.bg/SpoggAnotherV1/start.html" target="_blank">Spogg Another V1<br>SinglePlayer</a>
+<!--<form action="welcome.php" method="post">
+Name: <input type="text" name="name"><br>
+Suggestion: <input type="text" name="email"><br>
+<input type="Submit">
+</form>-->
+<br>
+<br>
+<br>
+<br>
+<br>
+        <div id="footer">
+        <p class="lf">Copyright &copy; 2019 <a href="#S00N...">Tripix Studios</a> - All Rights Reserved</p>
+        <p class="rf">Design by <a href="#ComingSoon...">Tripix Studios</a></p>
+        <div style="clear:both;"></div>
+</div>
+    </div>
+  </div>
+</div>
+<!-- END PAGE SOURCE -->
+</body>
+</html>-->

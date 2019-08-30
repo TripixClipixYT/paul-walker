@@ -1,0 +1,14 @@
+{
+  "name": "role-bot",
+  "version": "0.1.2",
+  "description": "A simple color role bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "!hello"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
